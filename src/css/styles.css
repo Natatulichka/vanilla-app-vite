@@ -6,8 +6,10 @@
 */
 @import url('./reset.css');
 @import url('./vite-promo.css');
+@import url('./sections/section-slider.css');
 @import url('./header.css');
 @import url('./footer.css');
+
 :root {
   font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
   font-size: 16px;
