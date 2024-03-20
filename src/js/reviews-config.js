@@ -18,7 +18,7 @@ const swiper = new Swiper('.swiper', {
     },
     // If we need pagination
     pagination: {
-        el: '.slider-1 .swiper-pagination',
+        el: '.reviews .swiper-pagination',
         clickable: true,
         renderBullet: function (index, className) {
             return '<li class="' + className + '"></li>';
@@ -29,8 +29,8 @@ const swiper = new Swiper('.swiper', {
     },
     // Navigation arrows
     navigation: {
-        nextEl: '.slider-1 .swiper-button-next',
-        prevEl: '.slider-1 .swiper-button-prev',
+        nextEl: '.reviews .swiper-button-next',
+        prevEl: '.reviews .swiper-button-prev',
     },
 
     // And if we need scrollbar

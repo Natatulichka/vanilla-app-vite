@@ -8,8 +8,7 @@
 @import url('../../node_modules/modern-normalize/modern-normalize.css');
 @import url('../../node_modules/swiper/swiper-bundle.min.css');
 @import url('./vite-promo.css');
-@import url('./sections/section-slider.css');
-@import url('./sections/section-slider.css');
+@import url('./sections/section-reviews.css');
 @import url('./header.css');
 @import url('./footer.css');
 
